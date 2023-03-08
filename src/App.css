@@ -31,10 +31,14 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
+
+  word-wrap: break-word;
+  overflow: auto;
 }
 
 .style{
   padding: 100px;
   display: flex;
   gap:20px;
+
 };
